@@ -47,7 +47,7 @@ Open another terminal from the `tabela-riscos` and navigate to the `tabela-risco
 
 ### Frontend dependencies
 ```bash
-cd customer-list-app-frontend
+cd tabela-riscos-frontend
 npm install
 ```
 
