@@ -34,7 +34,7 @@ sudo mongod
 ```
 
 ### Run the application
-Open another terminal and still within the `customer-list-app-backend` project directory run the application with:
+Open another terminal and still within the `tabela-riscos-backend` project directory run the application with:
 
 ```bash
 npm run start
