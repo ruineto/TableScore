@@ -6,12 +6,17 @@ Application repo for a customer list management application built with Nest.js, 
 This prototype is divided into two separate sections. Namely the Backend ( Built with Nest.js) and the frontend
 ( Built with Vue.js ).
 
+## Installing Prerequisites
+```bash
+sudo apt install nodejs npm mongodb
+```
+
 ### Clone the repository
 To easily set up the application, clone this repository which contains directory for both sections of the project ( i.e `tabela-riscos-backend` and `tabela-riscos-frontend`)
 
-
+```bash
 git clone https://github.com/ruineto/TableScore.git
-
+```
 ## Backend
 ### Change directory into the backend
 ```bash
